@@ -1,6 +1,6 @@
 # Dissertation project - Utilising machine learning to investigate electrical activity in ventricular myocytes
 
-Machine Learning is a passion of mine. The project used a novel machine-learning based approach to investigate the effect that changing multiple ion conductances has on the transition from normal cell electrical activity (action potentials) to abnormal cell electrical activity that can cause lethal arrhythmias (early afterdepolarizations).
+Machine Learning is a passion of mine. The project used a novel machine learning based approach to investigate the effect that changing multiple ion conductances has on the transition from normal cell electrical activity (action potentials) to abnormal cell electrical activity that can cause lethal arrhythmias (early afterdepolarizations).
 
 For my project, while handing a heavily imbalanced dataset, I trained an excellent XGBoost classifier which had a misclassification rate of just 0.07%. I also used SHAP values (a concept from game theory) to rank the importance of ion conductances in making predictions.
 
