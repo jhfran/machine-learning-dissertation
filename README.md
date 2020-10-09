@@ -15,4 +15,4 @@ The study also confirmed previous findings that an IKr block and sufficient inwa
 Dissertation data contains 8 matlab files. The endothelial O’Hara Rudy mathematical model was simulated by another MSc student to create the simulations in the matlab files. Altogether, there are 212,249 observations (simulations) and 11 variables. These variables are cycle length, APD90, class (the dependent variable) and 8 independent variables - GNa, Gto, PCa, GKr, GKs, GK1, GNCX, GpCa. These 8 independent variables are altered channel conductances/permeability used to predict the class variable (action potential class) and their values represent the scale factor at which they were altered.
 
 
-##Dissertation can be found on my github page https://jhfran.github.io/mldissertation
+## Dissertation can be found on my github page https://jhfran.github.io/mldissertation
